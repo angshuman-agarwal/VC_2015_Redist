@@ -9,4 +9,4 @@ Open the log file and navigate to this line (search for _SOURCEDIR_) - `Property
 - You will see a `cab1.cab` file. It is nothing but a zip archive.
 - Use a standard .zip utility to unpackage wherever you want to
 
-I have uploaded that cab file here.
+I have uploaded that cab file here under `x64` folder
